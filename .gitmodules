@@ -1,3 +1,6 @@
-[submodule "PhageLoader"]
-	path = PhageLoader
+[submodule "src/PhageLoader"]
+	path = src/PhageLoader
 	url = https://github.com/noamteyssier/PhageLoader
+[submodule "src/MCD-MotifSearch"]
+	path = src/MCD-MotifSearch
+	url = https://github.com/noamteyssier/MCD-MotifSearch

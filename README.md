@@ -1,5 +1,3 @@
-# Falciparum Phage Display
+# Ph-IP Seq Analyses for Tororo/Kanungu Dataset
 
 - Directory to organize final analyses on phage display in falciparum
-# PhIP-Seq_TororoKanungu
-# PhIP-Seq_TororoKanungu

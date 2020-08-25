@@ -1,0 +1,201 @@
+Barcode	id	date	age	gender	tsi	inc_yr	patent	malariacat	agecat	siteid	inf_type	positive
+CK3-8DFD	2424	2014-09-25	2.3917809	Female	467	0.594869706840391	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-ESLU	2466	2016-05-02	3.4520547	Female	61	0.9740000000000001	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-92DV	2110	2014-10-28	3.9972603	Male	167	0.602722772277228	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-6EZE	2302	2013-08-14	2.8986301	Male	61	2.1324020016680603	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-CB2J	2419	2015-05-11	3.128767	Male	95	1.09192825112108	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-87G3	2196	2014-02-03	3.7780821	Female	157	2.1182684341342197	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-5CVQ	2385	2012-09-24	2.8027396	Male	208	1.9877551020408202	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-D3UA	2416	2015-08-05	3.619178	Male	154	1.7147887323943702	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	subpatent	0
+CK3-74RX	2209	2013-08-12	3.7424657	Male	184	1.21043910521955	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-67XN	2030	2013-04-22	2.9260273	Male	0	2.05774647887324	0	Blood smear negative / LAMP positive	6 months - < 5 years	Kanungu	subpatent	1
+CK3-D49F	2142	2015-08-08	5.49863	Male	0	3.01859504132231	1	Blood smear positive / no malaria	5 years - < 11 years	Kanungu	malaria	1
+CK3-DTE6	2091	2015-08-03	6.8821917	Male	269	1.20246913580247	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-8P3V	2165	2014-05-05	5.0876713	Male	308	1.8141556291390701	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-DUL2	2137	2015-07-15	6.358904	Male	119	2.09913793103448	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-633E	2073	2013-01-28	5.627397	Female	263	1.83235785953177	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-BU4W	2017	2015-03-28	4.7178082	Female	0	0.314328743545611	0	Blood smear negative / LAMP positive	6 months - < 5 years	Kanungu	subpatent	1
+CK3-DHRF	2327	2015-09-28	6.2739725	Male	458	1.52314428690575	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-87PZ	2258	2013-12-11	6.786301	Male	0	2.77405063291139	1	Blood smear positive / no malaria	5 years - < 11 years	Kanungu	patent	1
+CK3-89PZ	2213	2013-11-20	4.120548	Female	163	2.44723618090452	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-5EUB	2378	2012-11-16	6.268493	Female	245	2.61962090163934	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-64VD	2377	2013-02-13	4.5452056	Male	194	3.09796437659033	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-7PZZ	2022	2014-02-04	4.9863014	Female	109	0.5987704918032789	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-5FAC	2322	2012-11-21	5.2	Female	284	1.4807432432432401	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-CP5H	2111	2015-04-14	5.652055	Female	42	0.9040841584158421	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-FHGQ	2049	2016-06-20	5.6547947	Female	45	0.30012325390304	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-BRHY	2097	2015-03-17	6.928767	Female	92	1.5030864197530902	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-BVDF	2224	2015-04-01	5.479452	Female	0	0.608243130724396	0	Blood smear negative / LAMP positive	5 years - < 11 years	Kanungu	subpatent	1
+CK3-63RY	2374	2013-02-15	6.6767125	Female	488	2.1704159592529697	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-FFB8	2219	2016-01-26	4.9041095	Male	203	0.303112033195021	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-5YS8	2293	2013-02-23	4.728767	Male	47	1.8232113144758701	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	subpatent	0
+CK3-6EVM	2083	2013-08-15	6.7260275	Male	44	1.8037037037037	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-9PLN	2115	2014-11-25	5.4821916	Female	71	0.301610239471511	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	patent	0
+CK3-5EJ2	2299	2012-11-13	6.369863	Female	304	2.130625	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-7SSS	2283	2014-07-31	5.128767	Female	482	0.304121565362198	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-8UU3	2337	2014-05-07	6.89863	Female	100	1.521875	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-8UM6	2340	2014-05-07	5.728767	Male	110	0.60875	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-FBCD	2342	2016-06-21	6.4136987	Male	0	0.0	0	Blood smear negative / LAMP positive	5 years - < 11 years	Kanungu	subpatent	1
+CK3-APTQ	2359	2015-02-17	4.2657533	Male	0	1.21648626144879	0	Blood smear negative / LAMP positive	6 months - < 5 years	Kanungu	subpatent	1
+CK3-6RCC	2228	2013-05-02	4.120548	Male	304	2.12354651162791	0	Blood smear negative / LAMP negative	6 months - < 5 years	Kanungu	malaria	0
+CK3-B2VK	2426	2015-01-19	5.6	Female	349	0.6917613636363641	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-FFB5	2122	2016-01-11	9.008219	Male	208	0.0	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-DRXU	2237	2015-08-03	9.139726	Male	0	2.4309484193011603	1	Blood smear positive / no malaria	5 years - < 11 years	Kanungu	patent	1
+CK3-7L9M	2192	2013-12-20	9.046576	Female	40	0.9085820895522391	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-6QDT	2295	2013-05-20	7.9342465	Male	164	2.4074858757062096	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-97FV	2171	2014-10-27	7.161644	Male	80	2.1182684341342197	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-893G	2341	2013-11-07	8.731507	Male	394	0.913125	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-9BFT	2046	2014-08-04	9.142466	Female	45	0.60024650780608	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-5NWA	2191	2013-04-29	10.30411	Male	0	1.02598314606742	0	Blood smear negative / LAMP positive	5 years - < 11 years	Kanungu	subpatent	1
+CK3-BSMY	2058	2015-03-18	10.054794	Male	119	1.79926108374384	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-76D6	2019	2013-11-06	8.065753	Female	25	2.8289586919105	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-G5NH	2183	2016-06-27	9.041096	Male	254	1.20345963756178	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-9RAG	2345	2014-08-07	8.150685	Female	0	3.348125	0	Blood smear negative / LAMP positive	5 years - < 11 years	Kanungu	subpatent	1
+CK3-4T2H	2018	2012-10-26	7.0356164	Male	78	2.5146299483648904	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-C4RT	2333	2015-05-19	9.531507	Male	13	0.0	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-C6Y2	2092	2015-06-09	8.334247	Male	154	1.5030864197530902	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-B4JP	2389	2015-01-19	8.345205	Male	0	1.2205513784461202	1	Blood smear positive / no malaria	5 years - < 11 years	Kanungu	patent	1
+CK3-5LXD	2367	2013-05-08	9.265754	Female	42	1.20743801652893	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-DRFC	2282	2015-08-31	8.216438	Male	124	0.0	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-CMS4	2029	2015-04-14	8.473972	Female	98	0.599261689909762	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-6ZNY	2117	2013-08-13	10.682192	Female	434	0.510839160839161	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-AWAK	2044	2015-01-21	10.320548	Female	125	0.628657487091222	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-BVS3	2040	2015-03-06	8.30411	Female	291	1.51430348258706	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-5EDD	2189	2012-11-06	7.7150683	Male	387	2.72348798674399	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-DSYR	2203	2015-08-31	7.213699	Female	68	2.4228855721393	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	patent	0
+CK3-4TT3	2066	2012-11-06	9.40274	Male	330	1.47129909365559	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-DQ42	2112	2015-09-01	10.758904	Male	182	0.323803191489362	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	patent	0
+CK3-F5LV	2011	2015-12-22	10.638356	Male	350	3.1568712186689702	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	subpatent	0
+CK3-8EVG	2399	2014-10-25	8.367124	Female	145	0.6470327723649251	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-D2ZH	2065	2015-08-05	8.1452055	Female	439	2.09398034398034	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-BQU6	2164	2015-01-20	7.0657535	Female	82	0.9070778145695358	0	Blood smear negative / LAMP negative	5 years - < 11 years	Kanungu	malaria	0
+CK3-5SHZ	2234	2013-02-06	49.68219	Female	474	1.25803673938002	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-5LR4	2178	2013-04-30	30.980822	Female	212	1.1215455475946798	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	malaria	0
+CK3-5C6D	2039	2012-10-29	36.39726	Female	49	1.46246246246246	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-5Q2E	2324	2013-02-20	33.175343	Female	483	1.12963917525773	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-74EZ	2195	2013-08-12	35.526028	Female	58	0.7363911290322579	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	malaria	0
+CK3-68G2	2094	2013-04-23	33.31233	Female	0	1.0763752455795699	1	Blood smear positive / no malaria	>= 18 years	Kanungu	patent	1
+CK3-5FE7	2288	2012-11-19	19.906849	Female	223	0.698374760994264	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	patent	0
+CK3-774J	2400	2013-09-10	67.284935	Female	78	1.54330985915493	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	malaria	0
+CK3-62PB	2264	2012-12-13	64.1726	Female	0	0.832004555808656	1	Symptomatic malaria	>= 18 years	Kanungu	malaria	1
+CK3-6ZKN	2169	2013-08-13	29.180822	Female	56	0.8027472527472529	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	malaria	0
+CK3-59P4	2296	2012-11-13	28.128767	Female	131	1.1461820083682	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-6R3F	2128	2013-05-06	47.934246	Female	129	1.0159944367176599	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-628P	2368	2012-12-17	37.515068	Female	135	0.7888768898488121	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-6E5X	2131	2013-08-15	50.20274	Female	150	0.834857142857143	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-5V7N	2215	2013-02-04	39.32055	Female	89	1.4571143617021298	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	malaria	0
+CK3-647Z	2371	2013-02-15	26.69041	Female	477	0.9845013477088951	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	malaria	0
+CK3-738L	2277	2013-08-12	27.178082	Female	0	0.6891509433962261	0	Blood smear negative / LAMP positive	>= 18 years	Kanungu	subpatent	1
+CK3-53TJ	2335	2012-11-25	71.49589	Female	223	0.515889830508475	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-6QK9	2294	2013-05-20	46.961643	Female	483	1.89052795031056	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-5R5A	2384	2013-02-11	25.679453	Female	27	1.31859205776173	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	malaria	0
+CK3-66GP	2220	2013-03-06	44.515068	Female	0	0.503793103448276	0	Blood smear negative / LAMP positive	>= 18 years	Kanungu	subpatent	1
+CK3-6MQF	2077	2013-05-21	30.509588	Female	152	0.492250673854447	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	malaria	0
+CK3-59L4	2349	2012-11-26	38.47671	Female	221	1.03177966101695	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-58H2	2134	2012-11-14	71.46575	Female	0	1.34447852760736	0	Blood smear negative / LAMP positive	>= 18 years	Kanungu	subpatent	1
+CK3-6EWZ	2106	2013-08-20	32.20274	Female	75	1.5176592797783899	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	malaria	0
+CK3-5LMT	2185	2013-04-30	27.219177	Female	42	1.54330985915493	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-57ZX	2060	2013-01-28	71.671234	Female	313	0.506588072122053	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-4XYW	2393	2012-11-13	49.449314	Female	44	1.38221381267739	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CK3-4N68	2054	2012-09-06	30.306849	Female	0	1.30679785330948	1	Blood smear positive / no malaria	>= 18 years	Kanungu	patent	1
+CK3-757L	2146	2013-08-12	46.66849	Female	225	1.37830188679245	0	Blood smear negative / LAMP negative	>= 18 years	Kanungu	subpatent	0
+CT3-4BKR	3001	2012-08-20	26.673973	Female	45	1.08640690065437	0	Blood smear negative / LAMP negative	>= 18 years	Tororo	subpatent	0
+CT3-4C5V	3002	2012-08-20	6.479452	Male	0	4.00080541237113	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	malaria	1
+CT3-4CX7	3004	2012-08-20	61.435616	Male	0	0.8543859649122809	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-4CMS	3005	2012-08-20	7.1452055	Male	0	1.4469439728353102	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-4BHM	3007	2012-08-20	8.019178	Female	45	2.00686813186813	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	patent	0
+CT3-4CW3	3008	2012-08-20	6.2849317	Male	95	2.00686813186813	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	malaria	0
+CT3-47EM	3010	2012-08-22	36.136986	Female	46	0.824957651044607	0	Blood smear negative / LAMP negative	>= 18 years	Tororo	subpatent	0
+CT3-4833	3011	2012-08-22	9.356164	Male	0	2.00686813186813	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-47UZ	3013	2012-08-22	4.021918	Female	36	3.09359119141728	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	malaria	0
+CT3-3MD4	3020	2012-08-21	19.19726	Female	0	1.6489841986456	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-3MCM	3022	2012-08-21	2.0465753	Male	0	2.7009385665529	0	Blood smear negative / LAMP positive	6 months - < 5 years	Tororo	malaria	1
+CT3-4DN6	3028	2012-08-20	4.890411	Female	45	1.10933940774488	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	subpatent	0
+CT3-3MMT	3030	2012-08-21	10.191781	Male	45	2.2899686520376203	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	patent	0
+CT3-3MXN	3033	2012-08-21	3.2438357	Male	0	4.3285835214447	1	Symptomatic malaria	6 months - < 5 years	Tororo	malaria	1
+CT3-47PZ	3034	2012-08-21	35.153423	Female	0	1.4609999999999999	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-3NJM	3035	2012-08-21	9.019178	Male	45	3.6525	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	subpatent	0
+CT3-47N4	3038	2012-08-22	6.509589	Male	46	2.7163901601830696	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	subpatent	0
+CT3-4CTA	3044	2012-08-20	30.312328	Female	45	1.03236291690221	0	Blood smear negative / LAMP negative	>= 18 years	Tororo	subpatent	0
+CT3-4D6E	3046	2012-08-20	6.293151	Female	0	4.5423968343697	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-3NHR	3052	2012-08-21	8.3068495	Male	0	2.29716981132075	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-3MDG	3054	2012-08-21	4.021918	Male	0	3.9318696883852704	0	Blood smear negative / LAMP positive	6 months - < 5 years	Tororo	subpatent	1
+CT3-3MTY	3062	2012-08-21	3.7863014	Male	115	3.97238122495707	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	malaria	0
+CT3-3N4K	3063	2012-08-21	3.509589	Male	84	4.78402619589977	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	malaria	0
+CT3-4CCQ	3068	2012-08-20	34.742466	Female	45	1.2785880980163402	0	Blood smear negative / LAMP negative	>= 18 years	Tororo	subpatent	0
+CT3-4CTS	3070	2012-08-20	6.3643837	Female	0	2.3656088082901605	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-4B99	3072	2012-08-21	9.520548	Male	0	2.2190157958687697	1	Symptomatic malaria	5 years - < 11 years	Tororo	malaria	1
+CT3-4BGB	3073	2012-08-21	7.189041	Female	53	3.7633085289067	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	malaria	0
+CT3-47WP	3075	2012-08-22	28.726027	Female	46	0.412945166760882	0	Blood smear negative / LAMP negative	>= 18 years	Tororo	subpatent	0
+CT3-47EL	3076	2012-08-22	9.816439	Female	46	4.01925722145805	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	subpatent	0
+CT3-4BXG	3083	2012-08-21	10.249315	Male	0	4.02004716981132	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	malaria	1
+CT3-3ML9	3092	2012-08-21	8.010959	Male	17	2.80373342637823	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	malaria	0
+CT3-3NEJ	3095	2012-08-21	7.60274	Male	0	1.84120982986768	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-47FS	3096	2012-08-21	4.8027396	Male	0	2.91699942954934	1	Blood smear positive / no malaria	6 months - < 5 years	Tororo	patent	1
+CT3-4B58	3102	2012-08-21	5.021918	Male	0	3.1371165644171803	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-4CEE	3106	2012-08-20	9.652055	Male	0	1.3561262376237602	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-48TS	3117	2012-08-27	65.15343	Female	0	1.2645701096364699	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-5A6V	3118	2012-08-27	7.6657534	Male	0	3.2039473684210495	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-4946	3119	2012-08-27	4.9452057	Male	0	3.8960000000000004	1	Blood smear positive / no malaria	6 months - < 5 years	Tororo	patent	1
+CT3-48FB	3120	2012-08-27	43.720547	Female	0	1.59846827133479	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-48QB	3122	2012-08-27	38.221916	Female	0	1.0335314091680798	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-4AXU	3126	2012-08-28	35.043835	Female	0	2.6563636363636403	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-4AKV	3127	2012-08-28	9.20274	Male	0	2.91616766467066	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-52R5	3128	2012-08-28	5.109589	Female	0	2.70247581104155	1	Symptomatic malaria	5 years - < 11 years	Tororo	malaria	1
+CT3-57UX	3130	2012-08-29	69.1726	Male	0	1.29368358913814	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-52RP	3133	2012-08-28	7.50137	Female	0	0.8009868421052628	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-5A4A	3136	2012-08-27	24.567123	Female	0	0.8027472527472529	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-59UV	3137	2012-08-27	5.241096	Female	0	2.40824175824176	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-5A9T	3138	2012-08-27	2.8273973	Female	0	3.21098901098901	0	Blood smear negative / LAMP positive	6 months - < 5 years	Tororo	subpatent	1
+CT3-52YD	3140	2012-08-28	9.964383	Female	45	2.00686813186813	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	subpatent	0
+CT3-5A7T	3142	2012-08-27	3.8465753	Female	91	1.03411664779162	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	malaria	0
+CT3-4APN	3144	2012-08-28	6.810959	Female	0	2.73201956271576	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	malaria	1
+CT3-48E3	3153	2012-08-24	6.520548	Female	100	3.35476463834673	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	malaria	0
+CT3-52EK	3159	2012-08-28	6.9671235	Female	0	3.4050652579241802	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-52ED	3161	2012-08-28	2.8383563	Male	0	4.54008701056557	0	Blood smear negative / LAMP positive	6 months - < 5 years	Tororo	subpatent	1
+CT3-49ZS	3165	2012-08-29	36.931507	Female	0	1.29982206405694	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-4ATC	3170	2012-08-28	32.057533	Female	0	1.07934397163121	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-4APC	3171	2012-08-28	9.860274	Female	64	3.85997357992074	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	malaria	0
+CT3-57G3	3177	2012-08-28	9.945206	Female	45	2.00962861072902	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	subpatent	0
+CT3-52HJ	3184	2012-08-28	5.8054795	Male	0	0.7837982832618029	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-4ARJ	3188	2012-08-28	21.465754	Female	0	1.08511586452763	1	Blood smear positive / no malaria	>= 18 years	Tororo	patent	1
+CT3-4AT8	3189	2012-08-28	7.186301	Male	0	3.9883620689655204	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-5779	3197	2012-08-29	39.227398	Female	45	0.42031070195627207	0	Blood smear negative / LAMP negative	>= 18 years	Tororo	subpatent	0
+CT3-5A4B	3201	2012-08-27	40.142467	Female	0	0.8639858072146659	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-4AV4	3205	2012-08-27	9.347945	Male	0	2.01350606394708	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-4A2D	3207	2012-09-02	6.320548	Male	102	2.7881679389313	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	malaria	0
+CT3-48MJ	3210	2012-08-27	4.2164383	Female	0	2.08001138952164	0	Blood smear negative / LAMP positive	6 months - < 5 years	Tororo	subpatent	1
+CT3-58QE	3219	2012-09-04	6.728767	Female	0	4.60487106017192	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-59HL	3223	2012-09-03	21.158905	Female	45	0.643045774647887	0	Blood smear negative / LAMP negative	>= 18 years	Tororo	subpatent	0
+CT3-59CC	3228	2012-09-03	29.241096	Female	45	1.47618360277136	0	Blood smear negative / LAMP negative	>= 18 years	Tororo	subpatent	0
+CT3-59KK	3230	2012-09-03	8.115068	Female	0	1.3224112961621999	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-58H5	3233	2012-09-04	7.468493	Male	0	0.8009868421052628	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-58M2	3235	2012-09-04	3.4657533	Female	46	1.7730582524271898	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	patent	0
+CT3-5885	3251	2012-09-04	5.8575344	Male	0	1.8892241379310302	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	malaria	1
+CT3-587P	3256	2012-09-04	27.441095	Female	0	1.0819016587677701	1	Blood smear positive / no malaria	>= 18 years	Tororo	patent	1
+CT3-557K	3262	2012-09-10	9.684932	Male	0	2.6563636363636403	1	Symptomatic malaria	5 years - < 11 years	Tororo	malaria	1
+CT3-53XJ	3267	2012-09-14	9.947946	Female	50	1.9850543478260902	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	subpatent	0
+CT3-5629	3274	2012-09-08	52.268494	Female	0	1.06611208406305	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-55MV	3275	2012-09-10	10.038356	Female	0	5.00342465753425	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-5632	3281	2012-09-10	2.550685	Female	0	5.2029914529914505	1	Blood smear positive / no malaria	6 months - < 5 years	Tororo	malaria	1
+CT3-55UJ	3283	2012-09-08	60.419178	Female	0	0.64991103202847	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-566D	3286	2012-09-08	4.235616	Male	0	3.35476463834673	0	Blood smear negative / LAMP positive	6 months - < 5 years	Tororo	subpatent	1
+CT3-4V9H	3289	2012-09-04	4.208219	Male	46	2.9354190585533897	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	patent	0
+CT3-54HP	3298	2012-09-14	31.783562	Female	50	1.9850543478260902	0	Blood smear negative / LAMP negative	>= 18 years	Tororo	subpatent	0
+CT3-54UH	3299	2012-09-14	8.191781	Female	0	5.3516483516483495	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-4V4U	3302	2012-09-05	41.254795	Female	0	0.42945326278659607	1	Blood smear positive / no malaria	>= 18 years	Tororo	patent	1
+CT3-49ED	3309	2012-09-02	5.473973	Female	0	5.2904113557358095	1	Symptomatic malaria	5 years - < 11 years	Tororo	malaria	1
+CT3-544G	3315	2012-09-26	6.2465754	Female	0	2.30640068886338	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-548B	3316	2012-09-26	5.630137	Male	0	2.16637010676157	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-56PJ	3317	2012-09-05	27.59726	Female	0	1.2845838218053898	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-573R	3319	2012-09-05	5.4602737	Female	81	2.45134228187919	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	malaria	0
+CT3-56VW	3320	2012-09-05	3.1041095	Male	37	4.634083044982701	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	malaria	0
+CT3-58GB	3327	2012-09-03	44.249313	Female	0	1.2891176470588201	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-4VA2	3330	2012-09-04	8.20274	Female	0	0.6665145985401459	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-55AF	3337	2012-09-10	4.728767	Female	12	4.37549914432402	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	malaria	0
+CT3-567B	3341	2012-09-10	51.27397	Female	0	0.8445086705202309	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-55PN	3342	2012-09-10	7.019178	Male	0	1.04357142857143	1	Blood smear positive / no malaria	5 years - < 11 years	Tororo	patent	1
+CT3-559K	3352	2012-09-10	6.3232875	Male	0	0.5733908948194661	0	Blood smear negative / LAMP positive	5 years - < 11 years	Tororo	subpatent	1
+CT3-5646	3355	2012-09-10	27.950686	Female	0	1.5182600950118799	0	Blood smear negative / LAMP positive	>= 18 years	Tororo	subpatent	1
+CT3-54VE	3356	2012-09-10	7.361644	Male	83	3.6872030878859903	0	Blood smear negative / LAMP negative	5 years - < 11 years	Tororo	malaria	0
+CT3-49JZ	3363	2012-09-03	4.728767	Female	80	4.297058823529411	0	Blood smear negative / LAMP negative	6 months - < 5 years	Tororo	malaria	0

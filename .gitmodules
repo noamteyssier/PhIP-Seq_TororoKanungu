@@ -7,3 +7,6 @@
 [submodule "src/AVARDA"]
 	path = src/AVARDA
 	url = https://github.com/noamteyssier/AVARDA
+[submodule "src/immunity"]
+	path = src/immunity
+	url = https://github.com/noamteyssier/immunity

@@ -40,6 +40,14 @@ notebooks/MCD-MotifSearch.ipynb
 src/MCD-MotifSearch/README.md
 ```
 
+### AVARDA
+Runs AVARDA on a given enrichment dataset
+
+```{bash}
+# Jupyter Notebook
+notebooks/RunAVARDA.ipynb
+```
+
 ## Analyses
 
 ### Healthy Patient Enrichment Comparison

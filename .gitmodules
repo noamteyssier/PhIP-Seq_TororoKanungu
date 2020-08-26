@@ -4,3 +4,6 @@
 [submodule "src/MCD-MotifSearch"]
 	path = src/MCD-MotifSearch
 	url = https://github.com/noamteyssier/MCD-MotifSearch
+[submodule "src/AVARDA"]
+	path = src/AVARDA
+	url = https://github.com/noamteyssier/AVARDA

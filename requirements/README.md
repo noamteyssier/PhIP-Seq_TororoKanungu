@@ -6,6 +6,41 @@
 pip3 install -r requirements.python.txt
 ```
 
+# C++ Requirements
+## Boost
+
+https://www.boost.org/
+
+```{bash}
+
+# MacOS
+sudo port install boost
+
+# Ubuntu
+sudo apt-get install libboost-all-dev
+
+# Archlinux w/ yay
+yay -S boost
+```
+
+## Armadillo
+
+http://arma.sourceforge.net/
+
+```{bash}
+
+# MacOS
+sudo port install armadillo
+
+# Ubuntu
+sudo apt-get install libarmadillo-dev
+
+# Archlinux w/ yay
+yay -S armadillo
+```
+
+
+
 # Path Requirements
 * MCD-MotifSearch requires some programs in PATH to run correctly.
 

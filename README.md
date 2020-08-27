@@ -80,5 +80,17 @@ https://elifesciences.org/articles/35832
 notebooks/AntibodyBreadth
 
 # Generated Figures
-figures/AntibodyBreadth
+figures/AntibodyBreadth/*
+```
+
+
+### Motif Analyses
+Analyses related to motifs discovered from cliques post maximum clique decomposition.
+
+```{bash}
+# Notebook
+notebooks/Motif_Analysis.ipynb
+
+# Generated Figures
+figures/MCD/*
 ```

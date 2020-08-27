@@ -13,13 +13,17 @@ pip3 install -r requirements.python.txt
 
 ## MEME
 - requires `meme-meme` and related `meme-*` to be in PATH
+
 http://meme-suite.org/
 
 ## Cliquer
 - requires binary to be in PATH as `cl`
+
 https://users.aalto.fi/~pat/cliquer.html
 
 ## BlastP
 - requires `blastp` to be in PATH
+
 https://blast.ncbi.nlm.nih.gov/Blast.cgi
+
 https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download

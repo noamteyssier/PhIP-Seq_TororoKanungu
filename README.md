@@ -5,6 +5,8 @@
 - Study Design : 100 Healthy and 200 Ugandan Patient Samples
   - 100 Kanungu, 100 Tororo
 
+# Requirements
+*Requirements detailed under `requirements/README.md`*
 
 # Notebooks
 

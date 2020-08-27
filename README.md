@@ -47,9 +47,11 @@ src/MCD-MotifSearch/README.md
 Runs AVARDA on a given enrichment dataset
 
 * original github
+
 https://github.com/HLarman/AVARDA
 
 * adapted github for newer networkx and absolute path arguments
+
 https://github.com/noamteyssier/AVARDA
 
 Method Described in :

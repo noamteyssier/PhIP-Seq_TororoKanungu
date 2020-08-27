@@ -9,6 +9,7 @@
 # Notebooks
 
 ## Pipelines
+* Python notebooks for complete analysis pipeline with parameterized values for enrichment
 
 ### Peptide Meta Generation
 Generates peptide meta generation and a log file showing which peptide meta was used and when it was run
@@ -49,6 +50,8 @@ notebooks/RunAVARDA.ipynb
 ```
 
 ## Analyses
+
+* Python notebooks for figure generation post-pipeline completion
 
 ### Healthy Patient Enrichment Comparison
 Runs analyses of effect of varying z-score and c-min between healthy and patient sets

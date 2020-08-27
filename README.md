@@ -8,6 +8,12 @@
 # Requirements
 *Requirements detailed under `requirements/README.md`*
 
+# Setup
+```{bash}
+# unzips required files for analyses
+./setup.sh
+```
+
 # Notebooks
 
 ## Pipelines

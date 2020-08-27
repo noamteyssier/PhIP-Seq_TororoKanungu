@@ -10,7 +10,7 @@
 
 # Setup
 ```{bash}
-# unzips required files for analyses
+# prepares git directory and unzips required files
 ./setup.sh
 ```
 

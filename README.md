@@ -46,6 +46,15 @@ src/MCD-MotifSearch/README.md
 ### AVARDA
 Runs AVARDA on a given enrichment dataset
 
+* original github
+https://github.com/HLarman/AVARDA
+
+* adapted github for newer networkx and absolute path arguments
+https://github.com/noamteyssier/AVARDA
+
+Method Described in :
+https://doi.org/10.1101/333625
+
 ```{bash}
 # Jupyter Notebook
 notebooks/RunAVARDA.ipynb

@@ -12,7 +12,6 @@ pip3 install -r requirements.python.txt
 https://www.boost.org/
 
 ```{bash}
-
 # MacOS
 sudo port install boost
 
@@ -28,7 +27,6 @@ yay -S boost
 http://arma.sourceforge.net/
 
 ```{bash}
-
 # MacOS
 sudo port install armadillo
 
